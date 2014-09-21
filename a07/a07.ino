@@ -1,4 +1,4 @@
-//assignment 6
+//assignment 7
 
 int ledPin=13;
 int incomingByte = 0;   // for incoming serial data
